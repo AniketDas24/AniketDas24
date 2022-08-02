@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aniket Das</h1>
 <h3 align="center">A tech enthusiast, mainly interested in ML, Data Science, A.I</h3>
+ :computer: I’m currently working on **Medical Datasets**
 
-- 🌱 I’m currently learning **Tensorflow,Machine Learning,Cyber Security**
+- :book: I’m currently learning **Time Series**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AniketDas24?tab=repositories](https://github.com/AniketDas24?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AniketDas24](https://github.com/AniketDas24)
+
+- 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **aniketdas9862@gmail.com**
 
