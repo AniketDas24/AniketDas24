@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Das</h1>
 <h3 align="center">A tech enthusiast, mainly interested in ML, Data Science, A.I</h3>
- :computer: I’m currently working on **Medical Datasets**
+
+- :computer: I’m currently working on **Image segmentation**
 
 - :book: I’m currently learning **Time Series**
 
